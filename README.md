@@ -1,6 +1,6 @@
 # README.md
 
-A web application for managing customer contact information, including personal details, phone records and companies detail. It allows users to perform CRUD (Create, Read, Update, Delete) operations on customer records and companies record, making it a practical tool for businesses to maintain and organize customer information. 
+A web application for managing customer contact information, including customer names, phone numbers and company detail. It allows users to perform CRUD (Create, Read, Update, Delete) operations on customer records and company records, making it a practical tool for businesses to maintain and organize customer information. 
 
 1.**Modify the contacts Table to include more attributes.**
 
